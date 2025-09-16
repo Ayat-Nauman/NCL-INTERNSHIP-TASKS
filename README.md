@@ -4,7 +4,7 @@
 ---
 
 ## 📌 Internship Overview
-- **Duration:** April 2024 – February 2025  
+// - **Duration:** April 2024 – February 2025  
 - **Focus Areas:** Embedded Systems, STM32 Programming, Circuit Debugging, HMI Design, Project Documentation  
 
 ---
