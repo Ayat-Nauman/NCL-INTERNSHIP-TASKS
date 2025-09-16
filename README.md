@@ -2,9 +2,6 @@
 
 This repository contains the documentation and practical implementations of tasks completed during my internship at **NCL**.  
 The internship involved research, embedded systems programming, circuit debugging, and HMI design.  
-
-📂 Access all related files and documents here: [NCL Internship Drive](https://drive.google.com/drive/folders/1ur2WIg-lStTw15VprCKJEhoW4HDg7JbE?usp=sharing)
-
 ---
 
 ## 📌 Internship Overview
