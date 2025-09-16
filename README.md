@@ -1,7 +1,7 @@
 # NCL Internship Tasks (April 2024 – February 2025)
 
-This repository contains the documentation and practical implementations of tasks completed during my internship at **NCL**.  
-The internship involved research, embedded systems programming, circuit debugging, and HMI design.  
+## This repository contains the documentation and practical implementations of tasks completed during my internship at **NCL**.  
+## The internship involved research, embedded systems programming, circuit debugging, and HMI design.  
 ---
 
 ## 📌 Internship Overview
